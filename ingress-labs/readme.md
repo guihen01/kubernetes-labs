@@ -24,8 +24,7 @@ It focuses on real-world debugging scenarios encountered while working with Ingr
 ### Routing
 
 - /app1 → app1-service → app1 pod
-- 
-- /app2 → app2-service → app2 pod
+/app2 → app2-service → app2 pod
 
 ---
 

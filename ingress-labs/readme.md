@@ -33,6 +33,8 @@ It focuses on real-world debugging scenarios encountered while working with Ingr
 
 Client → k3d LoadBalancer → Ingress Controller → Service → Pod
 
+![EC2 Instances](images/2026-04-21-topology.png)
+
 ---
 
 ## ⚙️ Prerequisites

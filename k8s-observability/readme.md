@@ -13,7 +13,7 @@ This lab demonstrates how to build a complete observability stack on Kubernetes 
 ---
 ## 📸 Screenshots
 
-![EC2 Instances](screenshots/prometheus.png)
+![EC2 Instances](screenshots/prometheus-pods.png)
 
 
 ## 🧭 Objectives

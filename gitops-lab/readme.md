@@ -1,10 +1,14 @@
 
-# 🚀 Kubernetes GitOps Lab with Flux (k3d)
+# 🚀 Kubernetes GitOps Lab with Argo CD (k3d)
 
 ## Overview
-This lab demonstrates a GitOps workflow using Kubernetes and Flux.
+This lab demonstrates a GitOps workflow using Kubernetes and Argo CD.
 
 Flux continuously synchronizes a Kubernetes cluster with the desired state defined in a Git repository.
+
+## Argo CD & git Lab
+
+➡️ See dedicated repo: https://github.com/guihen01/argo-lab
 
 ## Key Idea
 Git → Flux → Kubernetes

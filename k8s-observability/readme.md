@@ -11,6 +11,9 @@ This lab demonstrates how to build a complete observability stack on Kubernetes 
 * A sample application to monitor
 
 ---
+## 📸 Screenshots
+
+
 
 ## 🧭 Objectives
 

@@ -13,6 +13,10 @@ This lab demonstrates how to build a complete observability stack on Kubernetes 
 ---
 ## 📸 Screenshots
 
+## 📊 Grafana Dashboard (Cluster Overview)
+
+![Kubernetes Observability Grafana Dashboard](./k8s-observability-grafana-cluster-overview.png)
+
 ![EC2 Instances](screenshots/prometheus-pods.png)
 
 
@@ -29,7 +33,11 @@ This lab demonstrates how to build a complete observability stack on Kubernetes 
 ## 🧱 Architecture
 
 ```
-Pod → Service → ServiceMonitor → Prometheus → Grafana
+- Kubernetes cluster (k3d)
+- Prometheus (metrics collection)
+- Grafana (visualization)
+- kube-prometheus-stack (Helm)
+- ServiceMonitor for dynamic discovery
 ```
 
 ---

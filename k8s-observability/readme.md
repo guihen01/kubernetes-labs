@@ -15,7 +15,7 @@ This lab demonstrates how to build a complete observability stack on Kubernetes 
 
 ## 📊 Grafana Dashboard (Cluster Overview)
 
-![Kubernetes Observability Grafana Dashboard](./k8s-observability-grafana-cluster-overview.png)
+![Kubernetes Observability Grafana Dashboard](screenshots/k8s-observability-grafana-cluster-overview.png)
 
 ![EC2 Instances](screenshots/prometheus-pods.png)
 

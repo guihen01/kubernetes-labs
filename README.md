@@ -53,6 +53,14 @@ Implementation of a basic monitoring stack inside Kubernetes.
 * Visualized cluster metrics
 
 ---
+## 📊 Observability Labs
+
+Advanced observability labs are hosted in separate repositories to reflect real-world architecture.
+
+* App Observability Lab (Python + Prometheus + Grafana)
+  → https://github.com/guihen01/app-observability-lab
+
+--
 
 ### 🔁 GitOps Lab (Argo CD)
 

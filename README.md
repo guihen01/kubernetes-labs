@@ -36,6 +36,7 @@ Implementation of external access to services using Kubernetes Ingress.
 ### 📊 Observability Lab (Prometheus + Grafana)
 
 Implementation of a basic monitoring stack inside Kubernetes.
+https://github.com/guihen01/kubernetes-labs/tree/main/k8s-observability
 
 **Key concepts:**
 

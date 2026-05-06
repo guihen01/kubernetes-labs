@@ -1,9 +1,6 @@
+
 # EKS Terraform GitOps Platform Lab
 
-Infrastructure Kubernetes EKS déployée avec Terraform et GitOps via ArgoCD.
-```
-
----
 ## Overview
 
 This lab demonstrates how to build a complete Kubernetes platform on AWS using:
@@ -16,8 +13,6 @@ This lab demonstrates how to build a complete Kubernetes platform on AWS using:
 - GitOps principles
 
 The project deploys an EKS cluster with automated application delivery and observability tooling.
-
-Based on the lab guide provided in the PDF document :
 
 https://github.com/guihen01/eks-terraform-gitops-platform/blob/main/docs/lab-user-guide.pdf
 

@@ -13,6 +13,10 @@ This lab demonstrates how to build a complete Kubernetes platform on AWS using:
 
 The project deploys an EKS cluster with automated application delivery and observability tooling.
 
-Based on the lab guide provided in the PDF document. :contentReference[oaicite:0]{index=0}
+Based on the lab guide provided in the PDF document :
+
+https://github.com/guihen01/eks-terraform-gitops-platform/blob/main/docs/lab-user-guide.pdf
+
+-- 
 
 ➡️ See dedicated repo:  https://github.com/guihen01/eks-terraform-gitops-platform

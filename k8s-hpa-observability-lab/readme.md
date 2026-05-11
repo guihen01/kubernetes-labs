@@ -70,3 +70,8 @@ k8s-hpa-observability-lab/
 - Metrics Server
 - Prometheus + Grafana
 - hey (load testing tool)
+
+# screenshots
+
+![EC2 Instances](images/cluster-CPU.png)
+

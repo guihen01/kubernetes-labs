@@ -22,5 +22,5 @@ Production-style Kubernetes SRE lab built with:
 - Load testing
 
 
-
-➡️ See dedicated repo at : http//github.com/guihen01/sre-kubernetes-lab
+➡️ See dedicated repo: http//github.com/guihen01/sre-kubernetes-lab
+➡️ See dedicated repo at : 

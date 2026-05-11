@@ -75,3 +75,5 @@ k8s-hpa-observability-lab/
 
 ![EC2 Instances](screenshots/cluster-CPU.png)
 
+![EC2 Instances](screenshots/grafana-nodes-CPU.png)
+

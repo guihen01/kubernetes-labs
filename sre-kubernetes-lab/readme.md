@@ -23,4 +23,4 @@ Production-style Kubernetes SRE lab built with:
 
 
 
-➡️ See dedicated repo at ://github.com/guihen01/sre-kubernetes-lab
+➡️ See dedicated repo at : http//github.com/guihen01/sre-kubernetes-lab

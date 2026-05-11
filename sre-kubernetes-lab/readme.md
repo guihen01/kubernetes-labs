@@ -24,12 +24,3 @@ Production-style Kubernetes SRE lab built with:
 projet localisé sur : https://github.com/guihen01/sre-kubernetes-lab
 [](https://github.com/guihen01/sre-kubernetes-lab)
 
-➡️ [See dedicated repo](http//github.com/guihen01/sre-kubernetes-lab/) 
-
-##
-
-➡️ See dedicated repo: http//github.com/guihen01/sre-kubernetes-lab
---
-## Argo CD & git Lab
-
-➡️ See dedicated repo: https://github.com/guihen01/argo-lab

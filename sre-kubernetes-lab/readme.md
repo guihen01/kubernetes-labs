@@ -22,7 +22,7 @@ Production-style Kubernetes SRE lab built with:
 - Load testing
 
 projet localisé sur : https://github.com/guihen01/sre-kubernetes-lab
-[Mon projet SRE Kubernetes Lab](https://github.com/guihen01/sre-kubernetes-lab)
+[](https://github.com/guihen01/sre-kubernetes-lab)
 
 ➡️ [See dedicated repo](http//github.com/guihen01/sre-kubernetes-lab/) 
 

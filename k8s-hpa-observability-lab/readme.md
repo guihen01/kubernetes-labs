@@ -73,5 +73,5 @@ k8s-hpa-observability-lab/
 
 # screenshots
 
-![EC2 Instances](images/cluster-CPU.png)
+![EC2 Instances](screenshots/cluster-CPU.png)
 
